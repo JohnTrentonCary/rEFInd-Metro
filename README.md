@@ -41,7 +41,7 @@ Entries that are autodetected should also show the proper icons.
 
 ### Planned changes
 
-(Possibly) change selection_big.png to use a modified version of the func_exit.png icon from the rEFInd-minimal black.
+Improve the quality of selection_big.png.
 
 Update func_reset.png to remove the purple and make it better fit in.
 
