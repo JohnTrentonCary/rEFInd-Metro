@@ -54,9 +54,9 @@ Add more OS icons.
 The all the OS icons, most of the other icons as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
 The rest of the icons are from [rEFInd-minimalist-black][other-icons] by
-[Anders Fischer-Nielsen](other-icons-author). 
+[Anders Fischer-Nielsen][other-icons-author]. 
 
-The layout to his README is based off of [rEFI-minimal](readme) by [Evan Purkhiser](readme-author)
+The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
 [icons]: http://luxieblack.deviantart.com/art/Metro-burg-theme-336505408
 [icon-author]: http://luxieblack.deviantart.com/
@@ -64,6 +64,6 @@ The layout to his README is based off of [rEFI-minimal](readme) by [Evan Purkhis
 [padster]: https://github.com/theRealPadster
 [other-icons]: https://github.com/andersfischernielsen/rEFInd-minimal-black
 
-[readme]: https://github.com/EvanPurkhiser/rEFInd-minimal
+[readme-base]: https://github.com/EvanPurkhiser/rEFInd-minimal
 [readme-author]: https://github.com/EvanPurkhiser
 [other-icons-author]: https://github.com/andersfischernielsen
