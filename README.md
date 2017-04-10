@@ -43,7 +43,7 @@ Entries that are autodetected should also show the proper icons.
 
 Improve the quality of selection_big.png.
 
-Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other.
+Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other. (If anyone would like to improve the icons, please feel free to.)
 
 Center reset.png
 
