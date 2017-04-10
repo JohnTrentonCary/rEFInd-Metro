@@ -39,13 +39,9 @@ menuentry "OSX" {
 
 Entries that are autodetected should also show the proper icons.
 
-### Planned changes
+### Planned Changes
 
 Improve the quality of selection_big.png.
-
-Update func_reset.png to remove the purple and make it better fit in.
-
-Get the shutdown button working and updating the icon to remove the purple thus better fitting in.
 
 Add more OS icons.
 
