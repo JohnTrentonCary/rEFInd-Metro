@@ -43,14 +43,18 @@ Entries that are autodetected should also show the proper icons.
 
 Improve the quality of selection_big.png.
 
-Add more OS icons.
+Add more OS icons such as Arch and Mint.
+
+Center reset.png
+
+(Possibly) add a better font.
 
 ### Attribution
 
-The all the OS icons, most of the other icons as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
+The almost all of the OS icons, as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
 The rest of the icons are from [rEFInd-minimalist-black][other-icons] by
-[Anders Fischer-Nielsen][other-icons-author]. 
+[Anders Fischer-Nielsen][other-icons-author] or are mofified versions of the default icons.
 
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
