@@ -43,7 +43,7 @@ Entries that are autodetected should also show the proper icons.
 
 Improve the quality of selection_big.png.
 
-Add more OS icons such as Arch and Mint.
+Add more OS icons such as Arch, Mint, Fedora, Kali, Linux, Manjaro, Sabayon, Slackware, Ubuntugnome, Xubuntu, and other.
 
 Center reset.png
 
