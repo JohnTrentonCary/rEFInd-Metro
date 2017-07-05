@@ -53,8 +53,10 @@ Center reset.png
 
 The almost all of the OS icons, as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
-The rest of the icons are from [rEFInd-minimalist-black][other-icons] by
+Some of the icons are from [rEFInd-minimalist-black][other-icons] by
 [Anders Fischer-Nielsen][other-icons-author] or are mofified versions of the default icons.
+
+The rest of icons are from [icons8][https://icons8.com/]: [shutdown][https://icons8.com/icon/15896/Shutdown] and [restart][https://icons8.com/icon/16877/restart].
 
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
