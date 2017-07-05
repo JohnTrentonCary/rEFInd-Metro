@@ -56,7 +56,7 @@ The almost all of the OS icons, as well as the background are from [Metro for bu
 Some of the icons are from [rEFInd-minimalist-black][other-icons] by
 [Anders Fischer-Nielsen][other-icons-author] or are mofified versions of the default icons.
 
-The rest of icons are from [icons8][https://icons8.com/]: [shutdown][https://icons8.com/icon/15896/Shutdown] and [restart][https://icons8.com/icon/16877/restart].
+The rest of icons are from [icons8][icons8]: [shutdown][shutdown] and [restart][restart].
 
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
@@ -65,6 +65,10 @@ The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Pu
 
 [padster]: https://github.com/theRealPadster
 [other-icons]: https://github.com/andersfischernielsen/rEFInd-minimal-black
+
+[icons8-site]: https://icons8.com/
+[shutdown]: https://icons8.com/icon/15896/Shutdown
+[restart]: https://icons8.com/icon/16877/restart
 
 [readme-base]: https://github.com/EvanPurkhiser/rEFInd-minimal
 [readme-author]: https://github.com/EvanPurkhiser
