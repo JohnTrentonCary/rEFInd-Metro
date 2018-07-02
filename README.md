@@ -56,6 +56,8 @@ The rest of icons are from [icons8][icons8-site]: [shutdown][shutdown] and [rest
 
 Artix icon taken from the [distros git page](https://github.com/artix-linux/artwork/blob/master/icons/logo512x512.png).
 
+Deepin icon taken from [Wikipedia](https://es.wikibooks.org/wiki/Archivo:Deepin_logo.svg).
+
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
 [icons]: http://luxieblack.deviantart.com/art/Metro-burg-theme-336505408
