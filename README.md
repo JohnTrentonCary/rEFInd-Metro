@@ -3,7 +3,7 @@
 [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
 
-![screenshot](https://raw.githubusercontent.com/JohnTrentonCary/rEFInd-Metro/master/screenshot.png)
+![screenshot](screenshot.png)
 
 ### Usage
 
@@ -41,11 +41,7 @@ Entries that are autodetected should also show the proper icons.
 
 ### Planned Changes
 
-Improve the quality of selection_big.png.
-
 Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other. (If anyone would like to improve the icons, please feel free to.)
-
-Center reset.png
 
 (Possibly) add a better font.
 
