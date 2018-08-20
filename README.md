@@ -58,6 +58,8 @@ Artix icon taken from the [distros git page](https://github.com/artix-linux/artw
 
 Deepin icon taken from [Wikipedia](https://es.wikibooks.org/wiki/Archivo:Deepin_logo.svg).
 
+ReactOS icon taken from [Aha-Soft from shareicon.net](https://www.shareicon.net/reactos-102446).
+
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
 [icons]: http://luxieblack.deviantart.com/art/Metro-burg-theme-336505408
