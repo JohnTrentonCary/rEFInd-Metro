@@ -60,6 +60,10 @@ Deepin icon taken from [Wikipedia](https://es.wikibooks.org/wiki/Archivo:Deepin_
 
 ReactOS icon taken from [Aha-Soft from shareicon.net](https://www.shareicon.net/reactos-102446).
 
+KDE neon icon modified from [gnome-look](https://cn.pling.com/cache/400x400/img/7/b/4/3/69594d376d1ec634e6e4b0ea146f27226544.png).
+
+Solaris icon taken from [freebiesupply.com](https://freebiesupply.com/logos/solaris-logo/).
+
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
 [icons]: http://luxieblack.deviantart.com/art/Metro-burg-theme-336505408
