@@ -47,7 +47,7 @@ Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other. (If anyone
 
 ### Attribution
 
-The almost all of the OS icons, as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
+The almost all of the OS icons are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
 Some of the icons are from [rEFInd-minimalist-black][other-icons] by
 [Anders Fischer-Nielsen][other-icons-author] or are mofified versions of the default icons.
