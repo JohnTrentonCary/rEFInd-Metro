@@ -64,6 +64,8 @@ KDE neon icon modified from [gnome-look](https://cn.pling.com/cache/400x400/img/
 
 Solaris icon taken from [freebiesupply.com](https://freebiesupply.com/logos/solaris-logo/).
 
+Some assets are made by and cherry-picked from [LokManSiu's fork of this repository](https://github.com/LokManSiu/rEFInd-Metro-fork/).
+
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
 [icons]: http://luxieblack.deviantart.com/art/Metro-burg-theme-336505408
