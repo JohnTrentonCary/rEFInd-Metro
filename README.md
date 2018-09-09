@@ -3,7 +3,7 @@
 [rEFInd](http://www.rodsbooks.com/refind/) is a simplistic boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
 
-![screenshot](https://raw.githubusercontent.com/JohnTrentonCary/rEFInd-Metro/master/screenshot.png)
+![screenshot](screenshot.png)
 
 ### Usage
 
@@ -41,20 +41,30 @@ Entries that are autodetected should also show the proper icons.
 
 ### Planned Changes
 
-Improve the quality of selection_big.png.
-
 Add more OS icons such as Slackware, Ubuntugnome, Xubuntu, and other. (If anyone would like to improve the icons, please feel free to.)
-
-Center reset.png
 
 (Possibly) add a better font.
 
 ### Attribution
 
-The almost all of the OS icons, as well as the background are from [Metro for burg][icons] by [LuxieBlack][icon-author].
+The almost all of the OS icons are from [Metro for burg][icons] by [LuxieBlack][icon-author].
 
-The rest of the icons are from [rEFInd-minimalist-black][other-icons] by
+Some of the icons are from [rEFInd-minimalist-black][other-icons] by
 [Anders Fischer-Nielsen][other-icons-author] or are mofified versions of the default icons.
+
+The rest of icons are from [icons8][icons8-site]: [shutdown][shutdown] and [restart][restart].
+
+Artix icon taken from the [distros git page](https://github.com/artix-linux/artwork/blob/master/icons/logo512x512.png).
+
+Deepin icon taken from [Wikipedia](https://es.wikibooks.org/wiki/Archivo:Deepin_logo.svg).
+
+ReactOS icon taken from [Aha-Soft from shareicon.net](https://www.shareicon.net/reactos-102446).
+
+KDE neon icon modified from [gnome-look](https://cn.pling.com/cache/400x400/img/7/b/4/3/69594d376d1ec634e6e4b0ea146f27226544.png).
+
+Solaris icon taken from [freebiesupply.com](https://freebiesupply.com/logos/solaris-logo/).
+
+Some assets are made by and cherry-picked from [LokManSiu's fork of this repository](https://github.com/LokManSiu/rEFInd-Metro-fork/).
 
 The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Purkhiser][readme-author]
 
@@ -63,6 +73,10 @@ The layout to his README is based off of [rEFI-minimal][readme-base] by [Evan Pu
 
 [padster]: https://github.com/theRealPadster
 [other-icons]: https://github.com/andersfischernielsen/rEFInd-minimal-black
+
+[icons8-site]: https://icons8.com/
+[shutdown]: https://icons8.com/icon/15896/Shutdown
+[restart]: https://icons8.com/icon/16877/restart
 
 [readme-base]: https://github.com/EvanPurkhiser/rEFInd-minimal
 [readme-author]: https://github.com/EvanPurkhiser
